@@ -5,8 +5,7 @@
 _by 1Point3Acres_  
 This website was created by first generation Chinese immigrants to the US. It provided detailed information and realtime updates on COVID-19 in US and Canada
 
-<img align="left" src="https://www.worldometers.info/favicon/favicon.ico" alt="icon" width="20"/>
-[COVID-19 CORONAVIRUS PANDEMIC](https://www.worldometers.info/coronavirus/)  
+[COVID-19 CORONAVIRUS PANDEMIC](https://www.worldometers.info/coronavirus/)   <img src="https://www.worldometers.info/favicon/favicon.ico" alt="icon" width="20"/>  
 _by Worldometer_  
 This website reports data and charts of confirmed cases and deaths by Country, Territory, or Conveyance.
 
