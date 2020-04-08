@@ -12,5 +12,8 @@ This website was created by first generation Chinese immigrants to the US. It pr
 
 This website reports data and charts of confirmed cases and deaths by Country, Territory, or Conveyance.
 
+[Coronavirus Map: Tracking the Global Outbreak](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
+> _by New York Times_ <img src="http://www.iconarchive.com/download/i75988/martz90/circle-addon1/new-york-times.ico" alt="icon" width="20" />
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ychenzgithub/Cov19/master)
