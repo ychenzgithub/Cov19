@@ -1,4 +1,4 @@
-# Cov19
+# Data and Visualization of Covid-19
 
 
 [COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en)
