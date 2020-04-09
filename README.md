@@ -15,7 +15,18 @@ This website reports data and charts of confirmed cases and deaths by Country, T
 [Coronavirus Map: Tracking the Global Outbreak](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
 > by _New York Times_ <img src="http://www.iconarchive.com/download/i75988/martz90/circle-addon1/new-york-times.ico" alt="icon" width="20" />
 
+Nice visualization of Tracking the Global Outbreak of Covid-19. 
+
 [COVID-19 projections](https://covid19.healthdata.org/united-states-of-america)
 > by _UW Institute for Health Metrics and Evaluation (IHME)_ <img src="http://www.healthdata.org/sites/default/files/favicon_0.ico" alt="icon" width="20" />
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ychenzgithub/Cov19/master)
+
+This website provides projections of hospital resources use and death due to Covid-19 in the US and the globe.
+
+[COVID Tracking Project](https://covidtracking.com/)
+> by a team of journalists at The Atlantic and volunteers <img src="https://covidtracking.com/icons/icon-48x48.png" alt="icon" width="20" />
+
+The COVID Tracking Project obtains, organizes, and publishes high-quality data required to understand and respond to the COVID-19 outbreak in the United States. 
+
+
+
