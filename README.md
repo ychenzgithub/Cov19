@@ -35,12 +35,14 @@ This site displays a collection of up to date COVID-19 stats and charts.
 > by _Bing_ <img src="https://bing.com/covid/static/images/bing_favicon.30cb9538f76addf1fde1dbe5ae505813.ico" alt="icon" width="20" />
 
 This site tracks confirmed cases of COVId-19 globally.
-
 ***
 ## [Coronavirus (COVID-19) map](https://www.google.com/covid19-map/)
 > by _Google_ <img src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/google-icon.png" alt="icon" width="20" />
 
 A global map and statistics on COVID-19.
+***
+## [Latest Covid19 USA Analysis](https://covidcompare.com/)
+> by _covidcompare_ <img src="http://icons.iconarchive.com/icons/papirus-team/papirus-apps/32/google-icon.png" alt="icon" width="20" />
 
-
-
+State map of COVID-19 statistics in the US.
+***
