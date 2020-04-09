@@ -3,17 +3,19 @@
 
 [COVID-19 in US and Canada](https://coronavirus.1point3acres.com/en)
 
-> _by 1Point3Acres_  <img src="https://pbs.twimg.com/profile_images/1236417800891060225/WPYFi-8N_400x400.jpg" alt="icon" width="20"/>  
+> by _1Point3Acres_  <img src="https://pbs.twimg.com/profile_images/1236417800891060225/WPYFi-8N_400x400.jpg" alt="icon" width="20"/>  
 
 This website was created by first generation Chinese immigrants to the US. It provided detailed information and realtime updates on COVID-19 in US and Canada.
 
 [COVID-19 CORONAVIRUS PANDEMIC](https://www.worldometers.info/coronavirus/)
-> _by Worldometer_  <img src="https://www.worldometers.info/favicon/favicon.ico" alt="icon" width="20"/>  
+> by _Worldometer_  <img src="https://www.worldometers.info/favicon/favicon.ico" alt="icon" width="20"/>  
 
 This website reports data and charts of confirmed cases and deaths by Country, Territory, or Conveyance.
 
 [Coronavirus Map: Tracking the Global Outbreak](https://www.nytimes.com/interactive/2020/world/coronavirus-maps.html)
-> _by New York Times_ <img src="http://www.iconarchive.com/download/i75988/martz90/circle-addon1/new-york-times.ico" alt="icon" width="20" />
+> by _New York Times_ <img src="http://www.iconarchive.com/download/i75988/martz90/circle-addon1/new-york-times.ico" alt="icon" width="20" />
 
+[COVID-19 projections](https://covid19.healthdata.org/united-states-of-america)
+> by _UW Institute for Health Metrics and Evaluation (IHME)_ <img src="http://www.healthdata.org/sites/default/files/favicon_0.ico" alt="icon" width="20" />
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ychenzgithub/Cov19/master)
