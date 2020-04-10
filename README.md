@@ -28,6 +28,11 @@ This website provides projections of hospital resources use and death due to Cov
 
 The COVID Tracking Project obtains, organizes, and publishes high-quality data required to understand and respond to the COVID-19 outbreak in the United States.
 ***
+## <img src="https://www.arcgis.com/apps/opsdashboard/assets/images/favicon.ico" alt="icon" width="30" /> [Coronavirus COVID-19 Visual Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+> by _Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU)_
+
+Widely used data and visualization provided by JHU CSSE.
+***
 ## <img src="https://covid19dashboards.com/images/favicon.ico" alt="icon" width="30" /> [COVID-19 Dashboards](https://covid19dashboards.com/)  
 > by _Hamel Husain_
 
@@ -64,12 +69,17 @@ This phylogeny shows evolutionary relationships of hCoV-19 (or SARS-CoV-2) virus
 
 This site provides more than 20 charts, maps and tables that show the latest numbers about the coronavirus.
 ***
-## <img src="https://occovid19.ochealthinfo.com/themes/custom/virus_theme/favicon.ico" alt="icon" width="30" /> [OC COVID-19 Case Counts and Testing Figures](https://occovid19.ochealthinfo.com/coronavirus-in-oc)
-> by _Orange county health care agency_
+## <img src="https://ourworldindata.org/apple-touch-icon.png" alt="icon" width="30" /> [Coronavirus Disease – Statistics and Research](https://ourworldindata.org/coronavirus)
+> by _Our World in Data_
 
-Daily updated COVID-19 case counts and other information in Orange County, California. __This is for myself and other OC residents.__
+Comprehensive data and statistics about the COVID-19.
 ***
 ## <img src="https://coronavirustwittermap.ics.uci.edu/assets/images/berry-icon.png" alt="icon" width="30" /> [Coronavirus Twitter Map](https://coronavirustwittermap.ics.uci.edu/)
 > by _UC Irvine School of Information and Computer Sciences (ICS)_
 
 Charts and maps on COVID-19 related Tweets.
+***
+## <img src="https://occovid19.ochealthinfo.com/themes/custom/virus_theme/favicon.ico" alt="icon" width="30" /> [OC COVID-19 Case Counts and Testing Figures](https://occovid19.ochealthinfo.com/coronavirus-in-oc)
+> by _Orange county health care agency_
+
+Daily updated COVID-19 case counts and other information in Orange County, California. __This is for myself and other OC residents.__
