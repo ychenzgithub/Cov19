@@ -6,7 +6,7 @@
 
 > by _1Point3Acres_    
 
-This website was created by first generation Chinese immigrants to the US. It provided detailed information and realtime updates on COVID-19 in US and Canada.
+This website was created by first generation Chinese immigrants to the US. It provides detailed information and realtime updates on COVID-19 in US and Canada.
 ***
 ## <img src="https://www.worldometers.info/favicon/favicon.ico" alt="icon" width="30"/> [COVID-19 CORONAVIRUS PANDEMIC](https://www.worldometers.info/coronavirus/)
 > by _Worldometer_    
