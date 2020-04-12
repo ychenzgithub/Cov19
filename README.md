@@ -74,6 +74,21 @@ This site provides more than 20 charts, maps and tables that show the latest num
 
 Comprehensive data and statistics about the COVID-19.
 ***
+## <img src="https://avatars0.githubusercontent.com/u/1116146?s=460&u=f13ba66177907acfe1f51dd58224c467d98d7d70&v=4" alt="icon" width="30" /> [COVID-19 World Spread Data](https://covid.amcharts.com/)
+> by _Amcharts_
+
+Map and charts about the COVID-19 globally and in the US.
+***
+## <img src="https://trekhleb.github.io/covid-19/favicon.ico" alt="icon" width="30" /> [COVID-19 World Spread Data](https://trekhleb.github.io/covid-19/)
+> by _Trekhleb_
+
+Use JHU data to show the dynamics (the curvature of the graph) of Сoronavirus distribution per country.
+***
+## <img src="https://covid19.tk/assets/logo.png" alt="icon" width="30" /> [Covid19.tk](https://covid19.tk/)
+> by _BlankerL_
+
+World map, trends and comparisons of COVID-19.
+***
 ## <img src="https://coronavirustwittermap.ics.uci.edu/assets/images/berry-icon.png" alt="icon" width="30" /> [Coronavirus Twitter Map](https://coronavirustwittermap.ics.uci.edu/)
 > by _UC Irvine School of Information and Computer Sciences (ICS)_
 
