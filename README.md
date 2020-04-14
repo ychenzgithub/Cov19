@@ -79,7 +79,7 @@ Comprehensive data and statistics about the COVID-19.
 
 Map and charts about the COVID-19 globally and in the US.
 ***
-## <img src="https://trekhleb.github.io/covid-19/favicon.ico" alt="icon" width="30" /> [COVID-19 World Spread Data](https://trekhleb.github.io/covid-19/)
+## <img src="https://trekhleb.github.io/covid-19/favicon.ico" alt="icon" width="30" /> [COVID-19 Dashboard](https://trekhleb.github.io/covid-19/)
 > by _Trekhleb_
 
 Use JHU data to show the dynamics (the curvature of the graph) of Сoronavirus distribution per country.
@@ -88,6 +88,21 @@ Use JHU data to show the dynamics (the curvature of the graph) of Сoronavirus d
 > by _BlankerL_
 
 World map, trends and comparisons of COVID-19.
+***
+## <img src="https://www.tableau.com/favicon.ico" alt="icon" width="30" /> [Covid-19 Data Hub](https://www.tableau.com/covid-19-coronavirus-data-resources)
+> by _Tableau_
+
+Coronavirus Daily Global Tracker and visualizations powered by Tableau community.
+***
+## <img src="https://91-divoc.com/static/91.png" alt="icon" width="30" /> [91-DIVOC](https://91-divoc.com/pages/covid-visualization/)
+> by _Wade Fagen-Ulmschneider_
+
+An interactive visualization of the exponential spread of COVID-19.
+***
+## <img src="https://covidactnow.org/static/media/can_logo.0ac0983b.png" alt="icon" width="30" /> [Covid Act Now](https://covidactnow.org/)
+> by _The Covid Act Now team_
+
+This webpage uses the U.S. Interventions Model is a data platform that projects COVID infections, hospitalizations, and deaths across the United States, as well as model how public health interventions contain the spread of COVID.
 ***
 ## <img src="https://coronavirustwittermap.ics.uci.edu/assets/images/berry-icon.png" alt="icon" width="30" /> [Coronavirus Twitter Map](https://coronavirustwittermap.ics.uci.edu/)
 > by _UC Irvine School of Information and Computer Sciences (ICS)_
