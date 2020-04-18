@@ -104,6 +104,12 @@ An interactive visualization of the exponential spread of COVID-19.
 
 This webpage uses the U.S. Interventions Model is a data platform that projects COVID infections, hospitalizations, and deaths across the United States, as well as model how public health interventions contain the spread of COVID.
 ***
+## <img src="https://covid19.biglocalnews.org/county-maps/favicon.ico" alt="icon" width="30" /> [Covid-19 Case Mapper](https://covid19.biglocalnews.org/county-maps/index.html#/)
+> by _Big Local News_
+
+Find COVID-19 case data for any state and county, and create a map to of up-to-date visualizations related to the coronavirus pandemic.
+
+***
 ## <img src="https://coronavirustwittermap.ics.uci.edu/assets/images/berry-icon.png" alt="icon" width="30" /> [Coronavirus Twitter Map](https://coronavirustwittermap.ics.uci.edu/)
 > by _UC Irvine School of Information and Computer Sciences (ICS)_
 
