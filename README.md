@@ -103,12 +103,41 @@ An interactive visualization of the exponential spread of COVID-19.
 > by _The Covid Act Now team_
 
 This webpage uses the U.S. Interventions Model is a data platform that projects COVID infections, hospitalizations, and deaths across the United States, as well as model how public health interventions contain the spread of COVID.
+
 ***
 ## <img src="https://covid19.biglocalnews.org/county-maps/favicon.ico" alt="icon" width="30" /> [Covid-19 Case Mapper](https://covid19.biglocalnews.org/county-maps/index.html#/)
 > by _Big Local News_
 
 Find COVID-19 case data for any state and county, and create a map to of up-to-date visualizations related to the coronavirus pandemic.
 
+***
+## <img src="https://avatars3.githubusercontent.com/u/10454098?s=280&v=4" alt="icon" width="30" /> [COVID-19 Forecast Hub](https://reichlab.io/covid19-forecast-hub/)
+> by _Reich Lab_
+
+This website shows COVID-19 forecasts from multiple forecast models.
+
+***
+## <img src="https://covid-19.bsvgateway.org/static/images/favicon/favicon-32x32.png" alt="icon" width="30" /> [COVID-19 Confirmed and Forecasted Case Data](https://covid-19.bsvgateway.org/)
+> by _LANL COVID-19 team_
+
+Forecasts of COVID-19 cases and deaths in US states.
+
+***
+## <img src="http://www.covid-projections.com/assets/favicon.ico" alt="icon" width="30" /> [COVID Projections Tracker](http://www.covid-projections.com/)
+> by _yuorme_
+
+Historical model projections for a given country or region (currently only supports IHME projections).
+
+***
+## <img src="https://www.covidcaremap.org/favicon.png" alt="icon" width="30" /> [Covid Care Map](https://www.covidcaremap.org/)
+> by _Covid Care Map Team_
+
+Mapping US health system capacity needs to care for COVID-19 patients
+***
+## <img src="https://pbs.twimg.com/profile_images/589989073034457089/wabf992L_400x400.png" alt="icon" width="30" /> [Coronavirus: Changes in US Mobility](https://www.descarteslabs.com/mobility/#overview)
+> by _Descartes Labs_
+
+Visualization of social distancing's impacts on mobility in states of US.
 ***
 ## <img src="https://coronavirustwittermap.ics.uci.edu/assets/images/berry-icon.png" alt="icon" width="30" /> [Coronavirus Twitter Map](https://coronavirustwittermap.ics.uci.edu/)
 > by _UC Irvine School of Information and Computer Sciences (ICS)_
