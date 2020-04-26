@@ -48,7 +48,7 @@ This site tracks confirmed cases of COVId-19 globally.
 
 A global map and statistics on COVID-19.  
 ***
-## <img src="https://svgsilh.com/svg/1210522.svg" alt="icon" width="30" /> [Latest Covid19 USA Analysis](https://covidcompare.com/)
+## <img src="https://www.google.com/s2/favicons?domain=https://covidcompare.com/" alt="icon" width="30" /> [Latest Covid19 USA Analysis](https://covidcompare.com/)
 > by _covidcompare_
 
 State map of COVID-19 statistics in the US.
@@ -143,6 +143,31 @@ Visualization of social distancing's impacts on mobility in states of US.
 > by _UC Irvine School of Information and Computer Sciences (ICS)_
 
 Charts and maps on COVID-19 related Tweets.
+***
+## <img src="https://www.google.com/s2/favicons?domain=https://rt.live/" alt="icon" width="30" /> [Rt Covid-19](https://rt.live/)
+> by _rt.live_
+
+This webpage provides up-to-date values for Rt, a key measure of how fast the virus is growing, using data from The COVID Tracking Project.
+***
+## <img src="https://www.google.com/s2/favicons?domain=https://www.cdc.gov" alt="icon" width="30" /> [CDC COVID Data Tracker](https://www.cdc.gov/covid-data-tracker/index.html)
+> by _US CDC_
+
+This is the official COVID-19 case tracker by US CDC.
+***
+## <img src="https://www.google.com/s2/favicons?domain=https://ourworldindata.org" alt="icon" width="30" /> [Statistics and Research of COVID-19](https://ourworldindata.org/coronavirus)
+> by _Our World in Data_
+
+Statistics and charts of global COVID-19 pandemic.
+***
+## <img src="https://www.google.com/s2/favicons?domain=https://comphealth.ucsf.edu" alt="icon" width="30" /> [COVID-19 County Tracker](https://comphealth.ucsf.edu/app/buttelabcovid)
+> by _UCSF_
+
+This website tracks COVID-19 cases across all 3,142 counties in the United States.
+***
+## <img src="https://www.google.com/s2/favicons?domain=https://graphics.reuters.com" alt="icon" width="30" /> [Tracking the spread of the novel coronavirus](https://graphics.reuters.com/CHINA-HEALTH-MAP/0100B59S39E/index.html)
+> by _Reuters_
+
+Graphic site by Reuters on the spread of Covid-19.
 ***
 ## <img src="https://occovid19.ochealthinfo.com/themes/custom/virus_theme/favicon.ico" alt="icon" width="30" /> [OC COVID-19 Case Counts and Testing Figures](https://occovid19.ochealthinfo.com/coronavirus-in-oc)
 > by _Orange county health care agency_
