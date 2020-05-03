@@ -112,7 +112,7 @@ Find COVID-19 case data for any state and county, and create a map to of up-to-d
 
 ***
 ## <img src="https://avatars3.githubusercontent.com/u/10454098?s=280&v=4" alt="icon" width="30" /> [COVID-19 Forecast Hub](https://reichlab.io/covid19-forecast-hub/)
-> by _Reich Lab_
+> by _UMass-MB Reich Lab_
 
 This website shows COVID-19 forecasts from multiple forecast models.
 
@@ -129,6 +129,42 @@ Forecasts of COVID-19 cases and deaths in US states.
 Historical model projections for a given country or region (currently only supports IHME projections).
 
 ***
+## <img src="https://www.google.com/s2/favicons?domain=www.covid19-projections.com/" alt="icon" width="30" /> [COVID-19 Projections Using Machine Learning](https://covid19-projections.com/)
+> by _YYG_
+
+This website takes a data-driven approach rooted in epidemiology to forecast infections and deaths from the COVID-19 / coronavirus epidemic in the US and around the world.
+
+***
+## <img src="https://www.google.com/s2/favicons?domain=covid-19.tacc.utexas.edu/" alt="icon" width="30" /> [COVID-19 Mortality Projections for US States](https://covid-19.tacc.utexas.edu/projections/)
+> by _U Texas_
+
+Covid-19 projections in the US by The University of Texas COVID-19 Modeling Consortium.
+
+***
+## <img src="https://www.google.com/s2/favicons?domain=renkulab.shinyapps.io" alt="icon" width="30" /> [COVID-19 Epidemic Forecasting](https://renkulab.shinyapps.io/COVID-19-Epidemic-Forecasting/)
+> by _University of Geneva_
+
+Global Covid-19 projections by the Institute of Global Health, Faculty of Medicine, University of Geneva and the Swiss Data Science Center, ETH Zürich-EPFL.
+
+***
+## <img src="https://www.google.com/s2/favicons?domain=covid19.gleamproject.org" alt="icon" width="30" /> [MODELING COVID-19 IN THE UNITED STATES](https://covid19.gleamproject.org/)
+> by _Northwestern University_
+
+Covid-19 projections using the Global Epidemic and Mobility Model (GLEAM), an individual-based, stochastic, and spatial epidemic model.
+
+***
+## <img src="https://www.google.com/s2/favicons?domain=www.covidanalytics.io" alt="icon" width="30" /> [DELPHI Epidemiological Case Predictions](https://www.covidanalytics.io/projections)
+> by _MIT_
+
+Covid-19 projections by a new epidemiological model called DELPHI, which forecasts infections, hospitalizations, and deaths.
+
+***
+## <img src="https://www.google.com/s2/favicons?domain=mrc-ide.github.io" alt="icon" width="30" /> [Short-term forecasts of COVID-19 deaths in multiple countries](https://mrc-ide.github.io/covid19-short-term-forecasts/index.html)
+> by _Imperial College London_
+
+This weekly report presents forecasts of the reported number of deaths in the week ahead and analysis of case reporting trends (case ascertainment) for 48 countries with active transmission..
+
+***
 ## <img src="https://www.covidcaremap.org/favicon.png" alt="icon" width="30" /> [Covid Care Map](https://www.covidcaremap.org/)
 > by _Covid Care Map Team_
 
@@ -138,6 +174,13 @@ Mapping US health system capacity needs to care for COVID-19 patients
 > by _Descartes Labs_
 
 Visualization of social distancing's impacts on mobility in states of US.
+
+***
+## <img src="https://www.google.com/s2/favicons?domain=giscorps.maps.arcgis.com" alt="icon" width="30" /> [COVID-19 Testing Site Locator](https://giscorps.maps.arcgis.com/apps/webappviewer/index.html?id=2ec47819f57c40598a4eaf45bf9e0d16)
+> by _GISCorps_
+
+Map of COVID-19 testing sites in the US.
+
 ***
 ## <img src="https://coronavirustwittermap.ics.uci.edu/assets/images/berry-icon.png" alt="icon" width="30" /> [Coronavirus Twitter Map](https://coronavirustwittermap.ics.uci.edu/)
 > by _UC Irvine School of Information and Computer Sciences (ICS)_
@@ -172,4 +215,10 @@ Graphic site by Reuters on the spread of Covid-19.
 ## <img src="https://occovid19.ochealthinfo.com/themes/custom/virus_theme/favicon.ico" alt="icon" width="30" /> [OC COVID-19 Case Counts and Testing Figures](https://occovid19.ochealthinfo.com/coronavirus-in-oc)
 > by _Orange county health care agency_
 
-Daily updated COVID-19 case counts and other information in Orange County, California. __This is for myself and other OC residents.__
+Daily updated COVID-19 case counts and other information in Orange County, California.
+
+***
+## <img src="https://www.google.com/s2/favicons?domain=occovid.com" alt="icon" width="30" /> [OC COVID-19 Dashboard](https://occovid.com/index.html)
+> by _Anthony Nguyen_
+
+Better visualization of COVID-19 case counts and other information in Orange County, California.
